@@ -1,0 +1,11 @@
+nav h1{
+	font-family: bold;
+	 
+}
+.navbar
+{
+	background-color: red;
+	text-align-last: right;
+	letter-spacing: 1px;
+	word-spacing: 50px;
+}
